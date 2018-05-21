@@ -1,0 +1,53 @@
+-- (32.5%) -- Modelação própria --
+(7.5%) Meshes e Edição - 100% (tanque, carro)
+(5.0%) Curvas e Edição - 100% (trilhos do tanque)
+(5.0%) Superfícies e Edição - 0%
+(2.5%) Texto 3D e Edição - 0%
+(5.0%) Modelo baseado Imagem de referência - 100% (tanque)
+(7.5%) Modificadores - 100% (mirror-> carro e corpo do tanque; )
+Complexidade e detalhe - ?
+
+-- (27.5%) -- Shading --
+(7.5%) 3 fontes de luz - 0%
+(2.0%) Brilho (mínimo 2) - 0%
+(2.0%) Transparência (mínimo 2) - 0%
+(2.0%) Refletividade (mínimo 2) - 0%
+(2.0%) Texturas procedimentais (mínimo 2) - 0%
+(2.0%) Texturas baseadas em imagem (mínimo 2) - 0%
+(5.0%) UV Unwrapping - 0%
+(2.0%) Bump Mapping - 0%
+(3.0%)Texturas baseadas em imagem aplicadas a formas esféricas, cúbicas ou cilindricas (mínimo 2) - 0%
+Complexidade e detalhe - ?
+
+-- (30.0%) -- Animação --
+(2.5%) KeyFrames não aplicados às armaduras nem shapkeys - 0%
+(2.5%) Armaduras (mínimo com 3 ossos) - 0%
+(2.5%) Skinning - 0%
+(5.0%) Posing animada - 0%
+(5.0%) Criação de Shapekey (mínimo 2) - 0%
+(2.5%) Animação combinada de Shapekeys - 0%
+(5.0%) Física - 0%
+(2.5%) Sistema de partículas - 0%
+(2.5%) Modificadores (!Armature) - 0%
+Complexidade e detalhe - ?
+Valor de 0 a 100% (por exemplo, para "Animação com algum detalhe" - 50% ou para "Animação 
+com muita complexidade" - 100%)
+10.0%
+0.0%
+5.0%
+Sequência e Aparência
+Valor de 0 a 100% (por exemplo, para "filme com sequência pouco pensada" - 25% ou para "Filme 
+com muito boa aparência" - 100%)
+2.5%
+som colocado via Blender
+100% - Comprovar se usou
+2.5%
+Duração mínima de 45s
+100% - Comprovar se tem
+5.0%
+Bónus Filme
+Percentagens acumuláveis até máximo de 100%
+20% - Por cada simulação física ou sistema de partículas a mais;
+10% - Alteração dos parâmetros da câmara;
+10% - Câmara com diferentes enquadramentos ou mais do que uma câmara na mesma cena;
+10% - Por cada elemento ou processo usado e não leccionado
