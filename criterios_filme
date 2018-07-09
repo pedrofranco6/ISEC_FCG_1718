@@ -4,7 +4,7 @@
 (5.0%) Superfícies e Edição - 0%
 (2.5%) Texto 3D e Edição - 0%
 (5.0%) Modelo baseado Imagem de referência - 100% (tanque)
-(7.5%) Modificadores - 100% (mirror-> carro e corpo do tanque; )
+(7.5%) Modificadores - 100% (mirror-> carro e corpo do tanque; array, solidify, curve -> trilhos do tanque)
 Complexidade e detalhe - ?
 
 -- (27.5%) -- Shading --
